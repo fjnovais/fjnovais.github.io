@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Francisco, a Dsc. student in animal science and pastures at the [Luiz de Queiroz College of Agriculture](http://www.en.esalq.usp.br/) at the University of São Paulo (USP). I have experience in animal breeding, genetics, and molecular biology. Corrently, my research focuses on Omics Data integration methods applied to meat tenderness in Nellore cattle. During my M.Sc., I worked to identify potential biomarkers associated with feed efficiency as well as to understand the molecular process that explains feed efficiency variation.
+Hello! I'm Francisco, a Dsc. student in animal science and pastures at the [Luiz de Queiroz College of Agriculture](http://www.en.esalq.usp.br/) at the University of São Paulo (USP). I have experience in animal breeding, genetics, and molecular biology. Currently, my research focuses on Omics Data integration methods applied to meat tenderness in Nellore cattle. During my M.Sc., I worked to identify potential biomarkers associated with feed efficiency as well as to understand the molecular process that explains feed efficiency variation.
 
 Outside of my professional life I enjoy cooking, drawing and spending time with family.
 
