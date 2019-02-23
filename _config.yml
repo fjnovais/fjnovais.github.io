@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Francisco José de Novais"
 title_separator          : "-"
-name                     : &name "Francisco José de Nova\is"
+name                     : &name "Francisco José de Novais"
 description              : &description "personal description"
 url                      : https://fjnovais.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
