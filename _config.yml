@@ -9,15 +9,14 @@
 locale                   : "en-US"
 title                    : "Francisco José de Novais"
 title_separator          : "-"
-name                     : &name "Francisco José de Novais"
+name                     : &name "Francisco José de Nova\is"
 description              : &description "personal description"
 url                      : https://fjnovais.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fjnovais/fjnovais.github.io"
+repository               : "fjnovais.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -80,13 +79,12 @@ analytics:
 # Site Author
 author:
   name             : "Francisco José de Novais"
-  avatar           : "perfil.png"
-  bio              : "Animal scientist, multi-omics analyst, DSc. student"
+  avatar           : "profile.png"
+  bio              : "Animal scientist, multi-omics analysis, DSc. student at ESALQ-USP"
   location         : "Piracicaba, São Paulo, Brazil"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=pt-BR&user=LuY8B20AAAAJ"
   email            : "francisco.novais@usp.br"
-  researchgate     :  "https://www.researchgate.net/profile/Francisco_Novais"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,10 +101,10 @@ author:
   orcid            : "https://orcid.org/0000-0003-2487-8523"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "FranciscoNova18"
+  twitter          : *twitter
   vine             :
   weibo            :
   xing             :
@@ -269,7 +267,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
