@@ -29,8 +29,8 @@ Research Interests
 ><span style="color:darkred">1-"astonishing variety in individual particulars;</span>
 >
 ><span style="color:darkred">2-"astonishing constancy in fundamental mechanisms"</span>
-
->>--- Alberts, Bruce
+>
+>--- Alberts, Bruce
 >
 
 -------
