@@ -82,13 +82,13 @@ author:
   avatar           : "profile.png"
   bio              : "Animal scientist, multi-omics analysis, DSc. student at ESALQ-USP"
   location         : "Piracicaba, São Paulo, Brazil"
-  employer         : "http://lattes.cnpq.br/4454888083099051"
+  employer         : "University of São Paulo"
   googlescholar    : "https://scholar.google.com/citations?hl=pt-BR&user=LuY8B20AAAAJ"
   email            : "francisco.novais@usp.br"
   researchgate     : "https://www.researchgate.net/profile/Francisco_Novais"
   uri              : 
   bitbucket        :
-  lattes           : 
+  lattes           : "http://lattes.cnpq.br/4454888083099051"
   dribbble         :
   flickr           :
   facebook         :
@@ -110,7 +110,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : "http://lattes.cnpq.br/4454888083099051"
 
 
 # Reading Files
