@@ -80,13 +80,13 @@ analytics:
 author:
   name             : "Francisco José de Novais"
   avatar           : "profile.png"
-  bio              : "Animal scientist, multi-omics analysis, DSc. student at ESALQ-USP"
+  bio              : "Animal scientist, multi-omics analysis, DSc. student at ESALQ"
   location         : "Piracicaba, São Paulo, Brazil"
   employer         : "University of São Paulo"
   googlescholar    : "https://scholar.google.com/citations?hl=pt-BR&user=LuY8B20AAAAJ"
   email            : "francisco.novais@usp.br"
   researchgate     : "https://www.researchgate.net/profile/Francisco_Novais"
-  uri              : 
+  uri              : "http://lattes.cnpq.br/4454888083099051"
   bitbucket        :
   lattes           : "http://lattes.cnpq.br/4454888083099051"
   dribbble         :
@@ -94,7 +94,7 @@ author:
   facebook         :
   foursquare       :
   github           : "fjnovais"
-  google_plus      :
+  google_plus      : "http://lattes.cnpq.br/4454888083099051"
   keybase          :
   instagram        :
   lastfm           :
@@ -110,7 +110,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "http://lattes.cnpq.br/4454888083099051"
+  wikipedia        : 
 
 
 # Reading Files
