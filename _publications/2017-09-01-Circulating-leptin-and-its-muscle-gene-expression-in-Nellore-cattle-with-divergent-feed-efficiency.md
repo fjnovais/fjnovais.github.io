@@ -2,7 +2,7 @@
 title: "Circulating leptin and its muscle gene expression in Nellore cattle with divergent feed efficiency"
 collection: publications
 permalink: /publication/2017-09-01-Circulating-leptin-and-its-muscle-gene-expression-in-Nellore-cattle-with-divergent-feed-efficiency
-excerpt: 'To identify candidate genes and genomic regions associated with residual body weight gain (RWG), we conducted a genome-wide association study (GWAS) with 720 Nellore cattle using the GRAMMAR-Gamma association test.'
+excerpt: 'In this study, circulating leptin and its gene expression in muscle were evaluated in two groups of young Nellore bulls with divergent feed efficiency.'
 date: 01 September 2017
 venue: '<span style="color:#B10E06">Journal of Animal Science and Biotechnology,8:71</span>'
 
