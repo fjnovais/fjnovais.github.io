@@ -6,7 +6,7 @@ excerpt: 'To identify candidate genes and genomic regions associated with residu
 date: 01 September 2017
 venue: '<span style="color:#B10E06">Journal of Animal Science and Biotechnology,8:71</span>'
 
-citation: 'L.F.M. Mota, C.M. Bonafé, P.A. Alexandre, M.H. Santana, <b> F.J. Novais, E. Toriyama, A.V. Pires, S.L. Silva, P.R. Leme, J.B.S. Ferraz and H. Fukumasu(2017)Circulating leptin and its muscle gene expression in Nellore cattle with divergent feed efficiency.Journal of Animal Science and Biotechnology Volume: 8 Pages:71'
+citation: 'L.F.M. Mota, C.M. Bonafé, P.A. Alexandre, M.H. Santana, <b> F.J. Novais </b>, E. Toriyama, A.V. Pires, S.L. Silva, P.R. Leme, J.B.S. Ferraz and H. Fukumasu(2017)Circulating leptin and its muscle gene expression in Nellore cattle with divergent feed efficiency.Journal of Animal Science and Biotechnology Volume: 8 Pages:71'
 ---
 
 [Access paper here](https://doi.org/10.1186/s40104-017-0203-3)
