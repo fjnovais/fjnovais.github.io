@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-![visual2019BMCGen](http://fjnovais.github.io/images/visual2019BMCGen.png){: .align-right height="375px" width="356px"}
+![visual2019BMCGen](http://fjnovais.github.io/images/visual2019BMCGen.png){: .align-left height="375px" width="356px"}
 
 <b>[Identification of a metabolomic signature associated with feed efficiency in beef cattle](http://fjnovais.github.io/publication/2019-01-07-Identification-of-a-metabolomic-signature-associated-with-feed-efficiency-in-beef-cattle)</b> <b> F.J. Novais </b>, P.R.L. Pires, P.A. Alexandre, R.A. Dromms, A.H. Iglesias, J.B.S. Ferraz, M.P. Styczynski and H. Fukumasu(2017) <span style="color:#B10E06">BMC Genomics Volume,20(1):8</span>
 
@@ -13,7 +13,7 @@ Our aim was to evaluate the potential of serum metabolites to identify Feed Effi
 
 <br>
 
-![visual2017leptin](http://fjnovais.github.io/images/visual2017leptin.png){: .align-right height="375px" width="356px"}
+![visual2017leptin](http://fjnovais.github.io/images/visual2017leptin.png){: .align-right height="200px" width="180px"}
 
 <b>[Circulating leptin and its muscle gene expression in Nellore cattle with divergent feed efficiency](http://fjnovais.github.io/publication/2017-09-01-Circulating-leptin-and-its-muscle-gene-expression-in-Nellore-cattle-with-divergent-feed-efficiency)</b> L.F.M. Mota, C.M. Bonafé, P.A. Alexandre, M.H. Santana, <b> F.J. Novais </b>, E. Toriyama, A.V. Pires, S.L. Silva, P.R. Leme, J.B.S. Ferraz and H. Fukumasu(2017) <span style="color:#B10E06">Journal of Animal Science and Biotechnology,8:71</span>
 
