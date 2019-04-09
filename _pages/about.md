@@ -24,11 +24,11 @@ Research Interests
 ------
 
 >
-><span style="color:darkred">"The whole biology is thus a counterpoint between two themes:</span>
+><b><span style="color:#B10E06">"The whole biology is thus a counterpoint between two themes:</span></b>
 >
-><span style="color:darkred">1-"astonishing variety in individual particulars;</span>
+><span style="color:#B10E06">1-"astonishing variety in individual particulars;</span>
 >
-><span style="color:darkred">2-"astonishing constancy in fundamental mechanisms"</span>
+><span style="color:#B10E06">2-"astonishing constancy in fundamental mechanisms"</span>
 >
 >--- Alberts, Bruce
 >
