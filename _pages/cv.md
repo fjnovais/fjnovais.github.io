@@ -63,7 +63,7 @@ Work experience
   
 Skills
 ======
-* ###Quantitative Skills
+* ### Quantitative Skills
   * <b>Quantitative Genetics</b>
     * Genome-wide Association Mapping: BLUPF90
     * General analysis: PLINK
@@ -77,7 +77,7 @@ Skills
     * Putative Identification: mummichog
   * <b>Statistics</b>
     * R
-* ###Computational Skills
+* ### Computational Skills
    * <b>Operating Systems: LINUX, Windows</b>
      * R skills: LATEX, ggplot2, Tidyr, dplyr, stringr, purrr, tibble.
       * Photoshop and profissional slides.
