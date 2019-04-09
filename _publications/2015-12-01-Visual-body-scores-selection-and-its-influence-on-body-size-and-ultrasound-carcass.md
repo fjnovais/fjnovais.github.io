@@ -9,7 +9,6 @@ venue: '<span style="color:#B10E06">Journal of Animal Science, 93 (12):5597–56
 citation: 'M. N. Bonin  J. B. S. Ferraz  V. B. Pedrosa  S. L. Silva  R. C. Gomes  D. C. Cucco M. H. A. Santana  J. H. A. Campos  V. N. Barbosa  F. S. F. Castro  <b>F. J. Novais</b>  E. C. M. Oliveira (2015).Visual body-scores selection and its influence on body size and ultrasound carcass traits in Nellore cattle. Journal of Animal Science, Volume 93, Issue 12, December 2015, Pages 5597–5606.'
 ---
 
-------
 [Access paper here](https://doi.org/10.2527/jas.2015-9280)
 
 <b>Abstract</b>
