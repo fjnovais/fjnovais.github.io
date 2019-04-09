@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-01-07-Identification-of-a-metabolomic-signature-associated-with-feed-efficiency-in-beef-cattle
 excerpt: 'Our aim was to evaluate the potential of serum metabolites to identify Feed Efficiency of beef cattle before they enter the feedlot.'
 date: 07 January 2019
-venue: '<span style="color:#B10E06">BMC Genomics Volume,20(1):8</span>'
+venue: '<span style="color:#B10E06">BMC Genomics,20(1):8</span>'
 
 citation: '<b> F.J. Novais </b>, P.R.L. Pires, P.A. Alexandre, R.A. Dromms, A.H. Iglesias, J.B.S. Ferraz, M.P. Styczynski and H. Fukumasu(2017),Identification of a metabolomic signature associated with feed efficiency in beef cattle.BMC Genomics Volume: 20 Issue: 1 Pages: 8'
 ---
