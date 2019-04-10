@@ -65,7 +65,7 @@ Skills
 ======
 * ### Quantitative Skills
   * <b>Quantitative Genetics</b>
-    * Genome-wide Association Mapping: BLUPF90
+    * BLUPF90
     * General analysis: PLINK
     * Microarray: GenomeStudio
   * <b>Transcriptome Analysis</b>
