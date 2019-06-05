@@ -6,7 +6,7 @@ excerpt: 'This study aimed to identify selection signatures in a paternal broile
 date: 03 June 2019
 venue: '<span style="color:#B10E06">BMC Genomics,20:449</span>'
 
-citation: 'O.A.C. Almeida, G.C.M. Moreira, F.M. Rezende, C. Boschiero, J. O. Peixoto, A.M.G. Ibelli, M.C. Ledur, <b>/F.J. Novais</b> and L.L Coutinho (2019) Identification of selection signatures involved in performance traits in a paternal broiler line. BMC Genomics Volume: 20 Issue: 1 Pages: 449'
+citation: 'O.A.C. Almeida, G.C.M. Moreira, F.M. Rezende, C. Boschiero, J. O. Peixoto, A.M.G. Ibelli, M.C. Ledur, <b>F.J. Novais</b> and L.L Coutinho (2019) Identification of selection signatures involved in performance traits in a paternal broiler line. BMC Genomics Volume: 20 Issue: 1 Pages: 449'
 ---
 
 [Access paper here](https://doi.org/10.1186/s12864-019-5811-1)
