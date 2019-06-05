@@ -7,7 +7,7 @@ author_profile: true
 ## Peer-reviewed Publications
 ![Octavio2019BMCGen](http://fjnovais.github.io/images/octavio2019BMCGen.png){: .align-right height="375px" width="356px"}
 
-<b>[Identification of selection signatures involved in performance traits in a paternal broiler line](http://fjnovais.github.io/publication/2019-03-06-Identification-of-selection-signatures-involved-in-performance-traits-in-a-paternal-broiler-line)</b> <b> F.J. Novais </b>, O.A.C. Almeida, G.C.M. Moreira, F.M. Rezende, C. Boschiero, J. O. Peixoto, A.M.G. Ibelli, M.C. Ledur, <b>/F.J. Novais</b> and L.L. Coutinho(2017) <i><span style="color:#B10E06">BMC Genomics,20:449</span></i>
+<b>[Identification of selection signatures involved in performance traits in a paternal broiler line](http://fjnovais.github.io/publication/2019-03-06-Identification-of-selection-signatures-involved-in-performance-traits-in-a-paternal-broiler-line) </b> <b> O.A.C. Almeida, G.C.M. Moreira, F.M. Rezende, C. Boschiero, J. O. Peixoto, A.M.G. Ibelli, M.C. Ledur, <b>/F.J. Novais</b> and L.L. Coutinho(2019) <i><span style="color:#B10E06">BMC Genomics,20:449</span></i>
 
 Our aim was to identify selection signatures in a paternal broiler TT line at generations 7th and 16th of selection and to investigate the genes annotated in these regions.
 
