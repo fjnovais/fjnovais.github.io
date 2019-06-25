@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* <b>D.Sc. student </b>, Animal Science and Pastures, Specialization in Animal Breeding and Genetics, University of São Paulo - Piracicaba, January 2021 (expection)
+* <b>D.Sc. student </b>, Animal Science and Pastures, Specialization in Animal Breeding and Genetics, University of São Paulo - Piracicaba, January 2021*
   * Dissertation: "Genetic characterization of Nellore meat tenderness using multi-omics data integration".
   * Advisor: Dr. Luiz Lehmann Coutinho.
   
