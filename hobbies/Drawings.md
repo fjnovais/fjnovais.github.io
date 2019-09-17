@@ -33,11 +33,11 @@ author_profile: true
 
 <b>[2016-Cow on color pencils](http://fjnovais.github.io/hobbies/2016cow)</b>
 
-2017 Using Color pencils
+2016 Using Color pencils
 
 
 ![quadro](http://fjnovais.github.io/images/quadro2.jpg){: .align-center width="600px}
 
-<b>[2016-Gouache](http://fjnovais.github.io/hobbies/2016gouache) </b>
+<b>[2012-Gouache](http://fjnovais.github.io/hobbies/2016gouache) </b>
 
-2016 Using Gouche
+2012 Using Gouche
