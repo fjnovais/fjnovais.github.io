@@ -1,7 +1,7 @@
 ---
 title: "Cooktime"
 collection: hobbies
-permalink: /hobbies/Cooktime.md
+permalink: /hobbies/Cooktime
 author_profile: true
 ---
 
