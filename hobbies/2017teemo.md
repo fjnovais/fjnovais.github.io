@@ -9,11 +9,14 @@ author_profile: true
   <a target="_blank" href="http://fjnovais.github.io/images/teemo1.jpg">
     <img src="http://fjnovais.github.io/images/teemo1.jpg" alt="" width="400">
   </a>
-  <div class="desc">first attempt using watercolor- WRONG SHEET PAPER.</div>
-</div>
+  <div class="desc">first attempt using watercolor- WRONG SHEET PAPER.
+  </div>
+
 
 <div class="gallery">
   <a target="_blank" href="http://fjnovais.github.io/images/teemo2.jpg">
-    <img src="http://href="http://fjnovais.github.io/images/teemo2.jpg" alt="" width="400">
+    <img src="http://fjnovais.github.io/images/teemo2.jpg" alt="" width="400">
   </a>
-</div>
+  <div class="desc">
+  </div>
+
