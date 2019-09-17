@@ -4,7 +4,7 @@ permalink: /hobbies/
 author_profile: true
 ---
 
-This is just a place for my hobbies.
+This is just a place for my hobbies, after all I have I wonderful life. \o/
 
 ## [Drawings](http://fjnovais.github.io/hobbies/Drawings)
 
