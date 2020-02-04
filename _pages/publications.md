@@ -8,7 +8,7 @@ author_profile: true
 
 ![NIRS2020Meat](http://fjnovais.github.io/images/paper1-2020.jpg){: .align-left height="375px" width="356px"}
 
-<b>[Predicting the shear value and intramuscular fat in meat from Nellore cattle using Vis-NIR spectroscopy](http://fjnovais.github.io/publication//publication/2020-02-01-Predicting-shear-value-intramuscular-fat-meat-cattle-Vis-NIR)</b> <M.N. Bonin, S.L. Silva, L. Bünger, D. Ross, G.L.D. Feijó and R.C. Gomes and F.P. Rennó and M.H.A. Santana, F.M. Rezende, L.C.V. Ítavo, <b>F.J. Novais</b>, L.M.A. Surita, M.N. Bonin, M.H.F Pereira and J.B.S. Ferraz(2020) <i><span style="color:#B10E06">Meat Science</span></i>
+<b>[Predicting the shear value and intramuscular fat in meat from Nellore cattle using Vis-NIR spectroscopy](http://fjnovais.github.io/publication/publication/2020-02-01-Predicting-shear-value-intramuscular-fat-meat-cattle-Vis-NIR)</b> <M.N. Bonin, S.L. Silva, L. Bünger, D. Ross, G.L.D. Feijó and R.C. Gomes and F.P. Rennó and M.H.A. Santana, F.M. Rezende, L.C.V. Ítavo, <b>F.J. Novais</b>, L.M.A. Surita, M.N. Bonin, M.H.F Pereira and J.B.S. Ferraz(2020) <i><span style="color:#B10E06">Meat Science</span></i>
 
 Visible and near-infrared spectroscopy (Vis-NIRS) was tested for its effectiveness in predicting intramuscular fat (IMF) and WBSF in Nellore steers.
 
