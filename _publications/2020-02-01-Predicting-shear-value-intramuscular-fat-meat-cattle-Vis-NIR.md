@@ -1,7 +1,7 @@
 ---
 title: "Predicting the shear value and intramuscular fat in meat from Nellore cattle using Vis-NIR spectroscopy"
 collection: publications
-permalink: /publications/2020-02-01-Predicting-shear-value-intramuscular-fat-meat-cattle-Vis-NIR
+permalink: /publication/2020-02-01-Predicting-shear-value-intramuscular-fat-meat-cattle-Vis-NIR
 excerpt: 'Study to create Vis-NIRS calibration models and test their accuracy in predicting the meat quality of Nellore beef samples.'
 date: 01 Fev 2020
 venue: '<span style="color:#B10E06">Meat Science, 108077</span>'
