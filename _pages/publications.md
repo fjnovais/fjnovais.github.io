@@ -5,6 +5,17 @@ author_profile: true
 ---
 
 ## Peer-reviewed Publications
+
+![NIRS2020Meat](http://fjnovais.github.io/images/paper1-2020.jpg){: .align-left height="375px" width="356px"}
+
+<b>[Predicting the shear value and intramuscular fat in meat from Nellore cattle using Vis-NIR spectroscopy](http://fjnovais.github.io/publication//publication/2020-02-01-Predicting-shear-value-intramuscular-fat-meat-cattle-Vis-NIR)</b> <M.N. Bonin, S.L. Silva, L. Bünger, D. Ross, G.L.D. Feijó and R.C. Gomes and F.P. Rennó and M.H.A. Santana, F.M. Rezende, L.C.V. Ítavo, <b>F.J. Novais</b>, L.M.A. Surita, M.N. Bonin, M.H.F Pereira and J.B.S. Ferraz(2020) <i><span style="color:#B10E06">Meat Science</span></i>
+
+Visible and near-infrared spectroscopy (Vis-NIRS) was tested for its effectiveness in predicting intramuscular fat (IMF) and WBSF in Nellore steers.
+
+<br>
+
+<br>
+
 ![Octavio2019BMCGen](http://fjnovais.github.io/images/octavio2019BMCGen.png){: .align-right height="375px" width="356px"}
 
 <b>[Identification of selection signatures involved in performance traits in a paternal broiler line](http://fjnovais.github.io/publication/2019-03-06-Identification-of-selection-signatures-involved-in-performance-traits-in-a-paternal-broiler-line)</b> O.A.C. Almeida, G.C.M. Moreira, F.M. Rezende, C. Boschiero, J. O. Peixoto, A.M.G. Ibelli, M.C. Ledur, <b>F.J. Novais</b> and L.L. Coutinho(2019) <i><span style="color:#B10E06">BMC Genomics,20:449</span></i>
