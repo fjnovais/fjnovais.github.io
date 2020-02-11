@@ -25,11 +25,17 @@ Education
 
 Work experience
 ======
-* <b>July 2017 - Current</b>: Graduate Research Assistant (D.Sc.)
+<b>August 2017 - Current</b>: Graduate Research Assistant (D.Sc.)
   * Department of Animal Science, ESALQ/USP
   * Advisor: Luiz Lehmann Coutinho
   * Grant number:	88882.328657/2019-01 (CAPES)
   * Currently, my research has focused on Multi-omics Data integration methods applied to Nellore meat tenderness.
+
+* <b>August 2019 - February 2020</b>: Exchange Visitor 
+  * Department of Animal and Poultry Sciences, Virginia Polytechnic Institute and State University, Blacksburg,VA.
+  * Supervisor: Gota Morota
+  * Grant number:	88887.367967/2019-00 (CAPES)
+  * During the six-months internship I was training on machine-learning approaches applied to data omics integration.
   
 * <b>Ouctober 2016- April 2017</b>: Exchange Visitor
   * School of Chemical & Biomolecular Engineering, Georgia Institute of Technology, Atlanta,GA.
