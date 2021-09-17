@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* <b>D.Sc. student </b>, Animal Science and Pastures, Specialization in Animal Breeding and Genetics, University of São Paulo - Piracicaba, January 2021*
-  * Dissertation: "Genetic characterization of Nellore meat tenderness using multi-omics data integration".
+* <b>D.Sc. </b>, Animal Science and Pastures, Specialization in Animal Breeding and Genetics, University of São Paulo - Piracicaba, January 2021*
+  * Dissertation: "Multi-omic data integration for the study of production, carcass and meat quality traits in Nellore cattle".
   * Advisor: Dr. Luiz Lehmann Coutinho.
   
 * <b>M.Sc.</b>, Animal Biocience, Specialization in metabolomics, University of São Paulo-Pirassununga
@@ -25,11 +25,11 @@ Education
 
 Work experience
 ======
-<b>August 2017 - Current</b>: Graduate Research Assistant (D.Sc.)
+<b>August 2017 - September 2021</b>: Graduate Research Assistant (D.Sc.)
   * Department of Animal Science, ESALQ/USP
   * Advisor: Luiz Lehmann Coutinho
   * Grant number:	88882.328657/2019-01 (CAPES)
-  * Currently, my research has focused on Multi-omics Data integration methods applied to Nellore meat tenderness.
+  * My P.h.D research has focused on Multi-omics Data integration methods applied to meat quality in Nellore cattle.
 
 * <b>August 2019 - February 2020</b>: Exchange Visitor 
   * Department of Animal and Poultry Sciences, Virginia Polytechnic Institute and State University, Blacksburg,VA.
@@ -70,10 +70,6 @@ Work experience
 Skills
 ======
 * ### Quantitative Skills
-  * <b>Quantitative Genetics</b>
-    * BLUPF90
-    * General analysis: PLINK
-    * Microarray: GenomeStudio
   * <b>Transcriptome Analysis</b>
     * RNA-sequencing: DEseq2, NOISeq
     * Co-expression network analysis: Weighted Gene Coexpression Network Analysis (WGCNA), Cytoscape
