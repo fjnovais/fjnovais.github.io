@@ -6,7 +6,7 @@ author_profile: true
 
 ## Peer-reviewed Publications
 
-![BRPAR2021Meat](http://fjnovais.github.io/images/paper1-2021.jpg){: .align-right height="375px" width="356px"}
+![BRPAR2021Meat](http://fjnovais.github.io/images/Imagem1.jpg){: .align-right height="375px" width="356px"}
 
 <b>Genetic parameters associated with meat quality of Nellore cattle at different anatomical points of longissimus: Brazilian standards)</b> <Marina de Nadai Bonin, Victor Breno Pedrosa, Saulo da Luz e Silva, Lutz Bünger, Dave Ross, Rodrigo da Costa Gomes, Miguel Henrique de Almeida Santana, Diego de Córdova Cucco, Fernanda Marcondes de Rezende, Luís Carlos Vinhas Ítavo, <b>Francisco José de Novais</b>, Marília Williani Filgueira Pereira, Elisângela Chicaroni de Mattos Oliveira, José Bento Sterman Ferraz,
 (2021) <i><span style="color:#B10E06">Meat Science</span></i>
