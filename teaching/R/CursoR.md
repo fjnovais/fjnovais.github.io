@@ -6,4 +6,4 @@ author_profile: true
 
 ## <b>[Cronograma](http://fjnovais.github.io/teaching/R/Cronograma)</b>
 
-## <b>[Teste](fjnovais.github.io/teaching/R/teste)</b>
+## <b>[Teste](http://fjnovais.github.io/teaching/R/teste)</b>
