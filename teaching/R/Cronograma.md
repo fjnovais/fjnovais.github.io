@@ -22,34 +22,67 @@ author_profile: true
 
 ---
 
-## Dia 1
+## EXPLORAÇÃO
 `Horário`:  -
+
+* Entendendo o que é a linguagem R
+
+* Instalando o R e o RStudio
 
 * Familiarização com a interface do RStudio
 
-* Uso do RStudio e linguagem markdown para gerar relatórios
-
-* Operações básicas
+* Entendendo como funciona a linguagem
 
 * Tipos de objetos
 
+* Operações básicas
 
-## Dia 2
-`Horário`: - 
+* Instalação e aplicação de pacotes
 
 * Exportação e importação de dados
+
+* Criando Projetos e as linguagens que existem no RStudio
+
+## MANIPULAÇÃO
+`Horário`:  -
+
+* Tidyverse
+
+* Tibbles
+
+* String
+
+* Factors
+
+* Datas e tempo
+
+* Transformação de dados
 
 * Estruturas condicionais
 
 * Estruturas de repetição
 
+## PROGRAMANDO
+`Horário`:  -
+
 * Elaboração de funções
+
+* Pipes
+
+* Vetores
+
+* Iteração
+
+## COMUNICAÇÃO
+`Horário`:  -
+
+* Gráficos com ggplot2
+
+* R Markdown
+
+* Gerando Relatórios
+
+* Criando slides
 	
-## Dia 3
+## ESTATÍSTICA BASICA NO R
 `Horário`: -
-
-* Elaboração de gráficos simples
-
-* Instalação e aplicação de pacotes
-
-* Ferramentas básicas de análise de dados
