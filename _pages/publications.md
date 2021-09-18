@@ -68,6 +68,6 @@ Genetic parameters, genetic trends, and genetic progress of carcass traits were 
 
 ![visual2015GMR](http://fjnovais.github.io/images/visual2015GMR.png){: .align-right height="200px" width="436px"}
 
-<b>[Genome-wide association with residual body weight gain in Bos indicus cattle](http://fjnovais.github.io/publications/2015-05-18-Genome-wide-association-with-residual-body-weight-gain-in-Bos-indicus-cattle)</b> M.H.A. Santana, R.C. Gomes, Y.T. Utsunomiya, H.H.R. Neves, <b>F.J. Novais</b>, M.N. Bonin, H. Fukumasu, J.F. Garcia, P.A. Alexandre, G.A. Oliveira Junior, L.L. Coutinho (2015) <i><span style="color:#B10E06">Genetics and Molecular Research,14(2):5229-5233</span></i>
+<b>[Genome-wide association with residual body weight gain in Bos indicus cattle](http://fjnovais.github.io/publication/2015-05-18-Genome-wide-association-with-residual-body-weight-gain-in-Bos-indicus-cattle)</b> M.H.A. Santana, R.C. Gomes, Y.T. Utsunomiya, H.H.R. Neves, <b>F.J. Novais</b>, M.N. Bonin, H. Fukumasu, J.F. Garcia, P.A. Alexandre, G.A. Oliveira Junior, L.L. Coutinho (2015) <i><span style="color:#B10E06">Genetics and Molecular Research,14(2):5229-5233</span></i>
 
 Here, we identified candidate genes and genomic regions associated with residual body weight gain (RWG), we conducted a genome-wide association study (GWAS) with 720 Nellore cattle using the GRAMMAR-Gamma association test.
