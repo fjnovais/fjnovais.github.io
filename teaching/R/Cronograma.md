@@ -1,12 +1,10 @@
 ---
 title: "Cronograma"
-collection: teaching
 permalink: /teaching/R/Cronograma
 author_profile: true
 ---
-# Treinamento em Programação no Ambiente R
 
----
+# Treinamento em Programação no Ambiente R
 
 `LOCAL`: Laboratório de Oncologia Comparada e Translacional, Departamento de Medicina Veterinária – FZEA-USP
 
