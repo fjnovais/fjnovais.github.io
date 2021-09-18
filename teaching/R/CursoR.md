@@ -5,5 +5,3 @@ author_profile: true
 ---
 
 <b>[Cronograma](http://fjnovais.github.io/teaching/R/Cronograma)</b>
-
-Familiarização com a interface do RStudio
