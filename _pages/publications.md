@@ -8,7 +8,7 @@ author_profile: true
 
 ![BRPAR2021Meat](http://fjnovais.github.io/images/Imagem1.jpg){: .align-right height="375px" width="356px"}
 
-<b>[Genetic parameters associated with meat quality of Nellore cattle at different anatomical points of longissimus: Brazilian standards)](http://fjnovais.github.io/publication/2021-01-01-Genetic-parameters-associated-meat-qualit-of-Nellore-cattle-at-different-anatomical-points-of-longissimus-Brazilian-standards)</b> <Marina de Nadai Bonin, Victor Breno Pedrosa, Saulo da Luz e Silva, Lutz Bünger, Dave Ross, Rodrigo da Costa Gomes, Miguel Henrique de Almeida Santana, Diego de Córdova Cucco, Fernanda Marcondes de Rezende, Luís Carlos Vinhas Ítavo, <b>Francisco José de Novais</b>, Marília Williani Filgueira Pereira, Elisângela Chicaroni de Mattos Oliveira, José Bento Sterman Ferraz,
+<b>[Genetic parameters associated with meat quality of Nellore cattle at different anatomical points of longissimus: Brazilian standards)](http://fjnovais.github.io/publication/2021-01-01-Genetic-parameters-associated-meat-qualit-of-Nellore-cattle-at-different-anatomical-points-of-longissimus-Brazilian-standards)</b> <M.N. Bonin, V.B. Pedrosa, S.L. Silva, L. Bünger, D. Ross, R.C. Gomes, M.H.A. Santana, D.C. Cucco, F.M. Rezende, L.C.V. Ítavo, <b>F.J. Novais</b>, M.W.F. Pereira, E.C.M. Oliveira, J.B.S. Ferraz,
 (2021) <i><span style="color:#B10E06">Meat Science</span></i>
 
 The present study estimated genetic parameters and evaluated the genetic and phenotypic correlations between meat quality characteristics of Nellore cattle evaluated at different anatomical points of the longissimus.
