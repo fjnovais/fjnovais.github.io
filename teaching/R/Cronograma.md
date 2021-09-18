@@ -1,7 +1,7 @@
 ---
 title: "Cronograma"
 collection: teaching
-permalink: /teaching/R/CursoR/Cronograma
+permalink: /teaching/R/Cronograma
 author_profile: true
 ---
 
