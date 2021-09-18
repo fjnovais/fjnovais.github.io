@@ -1,7 +1,7 @@
 ---
 title: "Curso R"
 collection: teaching
-permalink: /teaching/R/CursoR
+permalink: /teaching/R/CursoR/Cronograma
 author_profile: true
 output:
   prettydoc::html_pretty:
