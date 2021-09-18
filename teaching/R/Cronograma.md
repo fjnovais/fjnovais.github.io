@@ -84,5 +84,5 @@ author_profile: true
 
 * Criando slides
 	
-## ESTATÍSTICA BASICA NO R
+## ESTATÍSTICA BÁSICA NO R
 `Horário`: -
