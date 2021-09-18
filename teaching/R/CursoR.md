@@ -1,7 +1,7 @@
 ---
 title: "Curso R"
 collection: teaching
-permalink: /teaching/R/CursoR
+permalink: /teaching/R/CursoR1
 author_profile: true
 ---
 
