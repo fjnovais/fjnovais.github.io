@@ -1,4 +1,8 @@
 ---
+title: "Curso R"
+collection: teaching
+permalink: /teaching/R/CursoR
+author_profile: true
 output:
   prettydoc::html_pretty:
     theme: cayman
