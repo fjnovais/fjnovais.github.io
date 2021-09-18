@@ -1,6 +1,6 @@
 ---
 title: "Curso R"
-collection: R language
+collection: teaching
 permalink: /teaching/R/CursoR
 author_profile: true
 ---
