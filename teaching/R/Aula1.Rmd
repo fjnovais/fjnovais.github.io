@@ -1,9 +1,7 @@
 ---
 date: "`r Sys.Date()`"
 author: "[GENt](https://gent-esalq.github.io/) <br/>  Escola Superior de Agricultura Luiz de Queiroz <br/> Universidade de São Paulo"
-output:
-    rmdformats::readthedown:
-      css: readthedowngent.css
+
 ---
 
 # Treinamento em Programação no Ambiente R
