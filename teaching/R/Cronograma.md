@@ -4,7 +4,6 @@ collection: teaching
 permalink: /teaching/R/Cronograma
 author_profile: true
 ---
-
 # Treinamento em Programação no Ambiente R
 
 ---
@@ -48,8 +47,8 @@ author_profile: true
 
 * Elaboração de funções
 	
-## Dia 3 – 20/03
-`Horário`: 8h ao 12h
+## Dia 3
+`Horário`: -
 
 * Elaboração de gráficos simples
 
