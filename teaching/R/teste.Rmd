@@ -1,5 +1,6 @@
 ---
 title: "R Notebook"
+permalink: /teaching/R/teste
 date: "`r Sys.Date()`"
 author: "[GENt](https://gent-esalq.github.io/) <br/>  Escola Superior de Agricultura Luiz de Queiroz <br/> Universidade de São Paulo"
 output:
