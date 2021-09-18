@@ -1,7 +1,7 @@
 ---
-title: "2012 Cow"
-collection: Drawings
-permalink: /hobbies/2016cow
+title: "Curso R"
+collection: R language
+permalink: /teaching/R/CursoR
 author_profile: true
 ---
 
