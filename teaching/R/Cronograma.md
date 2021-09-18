@@ -1,5 +1,5 @@
 ---
-title: "Curso R"
+title: "Cronograma"
 collection: teaching
 permalink: /teaching/R/CursoR/Cronograma
 author_profile: true
