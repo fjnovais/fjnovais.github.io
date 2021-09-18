@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* <b>D.Sc., Animal Science and Pastures</b>, Specialization in Animal Breeding and Genetics, University of São Paulo - Piracicaba, January 2021*
+* <b>D.Sc., Animal Science and Pastures</b>, Specialization in Animal Breeding and Genetics, University of São Paulo - Piracicaba.
   * Dissertation: "Multi-omic data integration for the study of production, carcass and meat quality traits in Nellore cattle".
   * Advisor: Dr. Luiz Lehmann Coutinho.
   
@@ -19,7 +19,7 @@ Education
   * Thesis: "Analysis in serum metabolomic associated with feed efficiency in Nellore".
   * Advisor: Dr. Heidge Fukumasu.
   
-* <b>B.S., Animal Science</b>, University of São Paulo-Pirassununga, february 2013
+* <b>B.S., Animal Science</b>, University of São Paulo-Pirassununga
   * Advisor: Dr. Heidge Fukumasu.
 
 Work experience
