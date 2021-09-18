@@ -9,17 +9,15 @@ output:
 
 ---
 
-`LOCAL`: Departamento de Genética, sala “Marcílio Dias” – ESALQ-USP
+`LOCAL`: Laboratório de Oncologia Comparada e Translacional, Departamento de Medicina Veterinária – FZEA-USP
 
-`PERÍODO`: 16, 18 e 20 de março de 2020
+`PERÍODO`: 2021
 
-`VALOR`: Pague quanto quiser/puder (sugestão de R$25,00)
+`REALIZAÇÃO`: Francisco José de Novais
 
-`REALIZAÇÃO`: GENt e Gfito-LQ
+`APOIO`: LOCT, Prof. Heidge Fukumasu
 
-`APOIO`: ESALQ, Departamento de Genética, grupo Gfito-LQ 
-
-`PÚBLICO-ALVO`: Estudantes de graduação e pós-graduação.
+`PÚBLICO-ALVO`: Estudantes.
 
 `PRÉ-REQUISITOS`: Interesse no aprendizado de uma linguagem de programação aplicada à análise de dados.
 
@@ -27,8 +25,8 @@ output:
 
 ---
 
-## Dia 1 – 16/03
-`Horário`:  8h ao 12h
+## Dia 1
+`Horário`:  -
 
 * Familiarização com a interface do RStudio
 
@@ -39,8 +37,8 @@ output:
 * Tipos de objetos
 
 
-## Dia 2 – 18/03
-`Horário`: 8h ao 12h 
+## Dia 2
+`Horário`: - 
 
 * Exportação e importação de dados
 
