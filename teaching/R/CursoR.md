@@ -6,4 +6,4 @@ author_profile: true
 
 ## <b>[Cronograma](http://fjnovais.github.io/teaching/R/Cronograma)</b>
 
-## <b>[Aula1](https://github.com/fjnovais/r4ds/edit/master/%s)</b>
+## <b>[Aula1](https://github.com/fjnovais/INSTALAR)</b>
