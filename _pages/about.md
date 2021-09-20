@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Francisco, animal scientist with MSc and PhD in animal science and pastures at the University of São Paulo (USP). I have experience in animal breeding, genetics, and molecular biology. During my PhD, at the University of São Paulo, I focused on Multi-omics integration methods applied to meat tenderness in Nellore cattle. On my MSc. research, I committed on identify potential biomarkers associated with feed efficiency as well as to understand the molecular process that explains feed efficiency variation.
+Hello! I'm Francisco, animal scientist, MSc. & PhD. in animal science and pastures at the University of São Paulo (USP). I have experience in animal breeding, genetics, and molecular biology. During my PhD, at the University of São Paulo, I focused on Multi-omics integration methods applied to meat tenderness in Nellore cattle. On my MSc. research, I committed on identify potential biomarkers associated with feed efficiency as well as to understand the molecular process that explains feed efficiency variation.
 
 Outside of my professional life I enjoy cooking, drawing and spending time with family.
 
