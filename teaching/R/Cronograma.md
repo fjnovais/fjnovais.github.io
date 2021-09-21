@@ -25,13 +25,16 @@ author_profile: true
 ## EXPLORAÇÃO
 `Horário`:  -
 
+`Dia 22/09/2021`:
 * Entendendo o que é a linguagem R
 
-* Instalando o R e o RStudio
+* Instalando o R e o RStudio 
 
 * Familiarização com a interface do RStudio
 
-* Entendendo como funciona a linguagem
+***
+
+`Dia 27/09/2021`:
 
 * Tipos de objetos
 
@@ -41,7 +44,7 @@ author_profile: true
 
 * Exportação e importação de dados
 
-* Criando Projetos e as linguagens que existem no RStudio
+* As linguagens que existem no RStudio
 
 ## MANIPULAÇÃO
 `Horário`:  -
