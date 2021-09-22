@@ -70,7 +70,7 @@ Skills
 ======
 * ### Quantitative Skills
   * <b>Transcriptome Analysis</b>
-    * RNA-sequencing: DEseq2, NOISeq
+    * RNA-sequencing: DEseq2, NOISeq, EdgeR, LIMMA
     * Co-expression network analysis: Weighted Gene Coexpression Network Analysis (WGCNA), Cytoscape
   * <b>Metabolomics Analysis</b>
     * Preprocessing: Progenesis QI Software, XCMS 
