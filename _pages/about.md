@@ -17,7 +17,7 @@ Outside of my professional life, I enjoy cooking, drawing, and spending time wit
 Research Interests
 ======
 ------
-* Understand the gaps between phenotype and molecular data using quantitative genetics, omics data, bioinformatics and statistics.
+* Understand the gaps between phenotype and molecular data using quantitative genetics, omics data integration, bioinformatics and statistics.
 
 * Research how Artificial Inteligence methods can be applied to animal breeding and animal production.
 
