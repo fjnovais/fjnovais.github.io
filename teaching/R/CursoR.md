@@ -8,3 +8,6 @@ author_profile: true
 
 
 ## <b>[Instalando R e o RStudio](http://fjnovais.github.io/teaching/R/INSTALAR/instalacao.html)</b>
+
+
+## <b>[Operações com Vetores](http://fjnovais.github.io/teaching/R/VETOR/Aula1.html)</b>
