@@ -36,9 +36,17 @@ author_profile: true
 
 `Dia 29/09/2021`:
 
-* Tipos de objetos
+* Tipos de objetos - VETORES
 
 * Operações básicas
+
+***
+
+* Tipos de objetos - MATRIZES E TENSORES
+
+* Operações básicas
+
+***
 
 * Instalação e aplicação de pacotes
 
