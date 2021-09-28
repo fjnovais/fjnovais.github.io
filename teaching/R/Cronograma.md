@@ -34,7 +34,7 @@ author_profile: true
 
 ***
 
-`Dia 27/09/2021`:
+`Dia 29/09/2021`:
 
 * Tipos de objetos
 
