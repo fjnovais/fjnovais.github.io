@@ -11,3 +11,6 @@ author_profile: true
 
 
 ## <b>[Operações com Vetores](http://fjnovais.github.io/teaching/R/VETOR/Aula1.html)</b>
+
+
+##<b>[Operações com Matrizes](http://fjnovais.github.io/teaching/R/MATRIZES/AulaMatrizes.html)</b>
