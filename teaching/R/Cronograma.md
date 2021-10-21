@@ -40,17 +40,18 @@ author_profile: true
 
 * Operações básicas
 
+* Instalação e aplicação de pacotes
+
 ***
 
+`Dia 21/10/2021`:
 * Tipos de objetos - MATRIZES E TENSORES
 
 * Operações básicas
 
-***
-
-* Instalação e aplicação de pacotes
-
 * Exportação e importação de dados
+
+***
 
 * As linguagens que existem no RStudio
 
