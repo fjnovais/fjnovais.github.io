@@ -44,7 +44,7 @@ author_profile: true
 
 ***
 
-`Dia 21/10/2021`:
+`Dia 22/10/2021`:
 * Tipos de objetos - MATRIZES E TENSORES
 
 * Operações básicas
