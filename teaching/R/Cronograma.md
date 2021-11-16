@@ -53,7 +53,13 @@ author_profile: true
 
 ***
 
+`Dia 17/11/2021`:
+
+* Elaboração de funções
+
 * As linguagens que existem no RStudio
+
+***
 
 ## MANIPULAÇÃO
 `Horário`:  -
@@ -76,8 +82,6 @@ author_profile: true
 
 ## PROGRAMANDO
 `Horário`:  -
-
-* Elaboração de funções
 
 * Pipes
 
