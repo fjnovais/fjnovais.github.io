@@ -1,7 +1,7 @@
 ---
 title: "Metabolomic signature of spermatozoa established during holding time is responsible for differences in boar sperm freezability"
 collection: publications
-permalink: /publication/2021-11-01-Metabolomic-signature-spermatozoa-established-during-HT-responsible-differences-boar-sperm-freezability'
+permalink: /publication/2021-11-01-Metabolomic-signature-spermatozoa-established-during-HT-responsible-differences-boar-sperm-freezability
 date: 11 November 2021
 venue: '<span style="color:#B10E06">Biology of Reproduction,ioab200</span>'
 
