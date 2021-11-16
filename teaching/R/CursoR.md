@@ -14,3 +14,6 @@ author_profile: true
 
 
 ## <b>[Operações com Matrizes](http://fjnovais.github.io/teaching/R/MATRIZES/AulaMatrizes.html)</b>
+
+
+## <b>[Treinamento básico: Funções](http://fjnovais.github.io/teaching/R/FUNCOES/AulaFuncoes.html)</b>
