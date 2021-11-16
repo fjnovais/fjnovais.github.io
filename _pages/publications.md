@@ -8,7 +8,7 @@ author_profile: true
 
 ![BioReprod2021Met](http://fjnovais.github.io/images/m_ioab200ga.jpeg){: .align-left height="375px" width="356px"}
 
-<b>[Metabolomic signature of spermatozoa established during holding time is responsible for differences in boar sperm freezability](http://fjnovais.github.io/publication/2021-11-01-Metabolomic-signature-spermatozoa-established-during-HT-responsible-differences-boar-sperm-freezability)</b> <Torres M.A.,Pedrosa A.C., <b>Novais F.J.</b>, Alkmin D.V., Cooper B.R., Yasui G.S., Fukumasu H., Machaty Z., Andrade A.F.C,
+<b>[Metabolomic signature of spermatozoa established during holding time is responsible for differences in boar sperm freezability](https://fjnovais.github.io/publication/2021-11-01-Metabolomic-signature-spermatozoa-established-during-HT-responsible-differences-boar-sperm-freezability)</b> <Torres M.A.,Pedrosa A.C., <b>Novais F.J.</b>, Alkmin D.V., Cooper B.R., Yasui G.S., Fukumasu H., Machaty Z., Andrade A.F.C,
 (2021) <i><span style="color:#B10E06">Biology of Reproduction</span></i>
 
 The aim of this study was to understand how HT influences spermatic and seminal plasma metabolite profiles of boar ejaculates and how these possible changes affect freezability.
