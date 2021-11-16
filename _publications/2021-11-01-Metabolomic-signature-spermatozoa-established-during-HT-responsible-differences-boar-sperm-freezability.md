@@ -5,7 +5,7 @@ permalink: /publication/2021-11-01-Metabolomic-signature-spermatozoa-established
 date: 11 November 2021
 venue: '<span style="color:#B10E06">Biology of Reproduction,ioab200</span>'
 
-citation: 'Mariana A Torres, Ana Carolina Pedrosa, <b>Francisco José de Novais</b>, Diego V Alkmin, Bruce R Cooper, George S Yasui, Heidge Fukumasu, Zoltan Machaty, André F C de Andrade (2021) Metabolomic signature of spermatozoa established during holding time is responsible for differences in boar sperm freezability. MBiology of Reproduction, ioab200'
+citation: 'Mariana A Torres, Ana Carolina Pedrosa, <b>Francisco José de Novais</b>, Diego V Alkmin, Bruce R Cooper, George S Yasui, Heidge Fukumasu, Zoltan Machaty, André F C de Andrade (2021) Metabolomic signature of spermatozoa established during holding time is responsible for differences in boar sperm freezability. Biology of Reproduction, ioab200'
 ---
 
 [Access paper here](https://doi.org/10.1093/biolre/ioab200)
