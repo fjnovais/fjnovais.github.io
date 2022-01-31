@@ -72,6 +72,12 @@ Skills
   * <b>Transcriptome Analysis</b>
     * RNA-sequencing: DEseq2, NOISeq, EdgeR, LIMMA
     * Co-expression network analysis: Weighted Gene Coexpression Network Analysis (WGCNA), Cytoscape
+  
+  * <b>Metabolomics Analysis</b>
+    * Processing and Phylogenetics: Fastqc. Multiqc, Figaro, HTStream, DADA2, Phyloseq, Vegan
+    * Statistical Analysis: Phyloseq, DEseq2, EdgeR
+
+
   * <b>Metabolomics Analysis</b>
     * Preprocessing: Progenesis QI Software, XCMS 
     * Statistical Analysis: MetaboAnalyst
