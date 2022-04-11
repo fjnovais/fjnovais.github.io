@@ -6,7 +6,7 @@ author_profile: true
 
 ## Peer-reviewed Publications
 
-![FrontGen2022Vag](http://fjnovais.github.io/images/11imagem.jpg){: .align-right height="375px" width="356px"}
+![FrontGen2022Vag](http://fjnovais.github.io/images/Imagem11.jpg){: .align-right height="375px" width="356px"}
 
 <b>[Vaginal Microbiota Diversity in Response to Lipopolysaccharide in Gilts Housed Under Three Housing Systems](http://fjnovais.github.io/publication/2022-08-08-Vaginal-Microbiota-Diversity-in-Response-to-Lipopolysaccharide-in-Gilts-Housed-Under-Three-Housing-Systems)</b> <Alves L.,<b>Novais F.J.</b>, da Silva A.N., Araujo M.S., Bernadino T., Osowki G. V., Zanella R., Lee Settles M., Holmes M.A., Fukumasu H., Ruiz V.L.A., Zanella A.J. (2022) <i><span style="color:#B10E06">Frontiers in Genetics</span></i>
 
