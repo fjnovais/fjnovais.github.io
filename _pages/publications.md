@@ -6,6 +6,17 @@ author_profile: true
 
 ## Peer-reviewed Publications
 
+![FrontGen2022Vag](http://fjnovais.github.io/images/11imagem.jpg){: .align-right height="375px" width="356px"}
+
+<b>[Vaginal Microbiota Diversity in Response to Lipopolysaccharide in Gilts Housed Under Three Housing Systems](http://fjnovais.github.io/publication/2022-08-08-Vaginal-Microbiota-Diversity-in-Response-to-Lipopolysaccharide-in-Gilts-Housed-Under-Three-Housing-Systems)</b> <Alves L.,<b>Novais F.J.</b>, da Silva A.N., Araujo M.S., Bernadino T., Osowki G. V., Zanella R., Lee Settles M., Holmes M.A., Fukumasu H., Ruiz V.L.A., Zanella A.J. (2022) <i><span style="color:#B10E06">Frontiers in Genetics</span></i>
+
+The aim was to understand how different Housing Systems affects metagenomics in gilts during a stress response.
+
+<br>
+
+<br>
+
+
 ![BioReprod2021Met](http://fjnovais.github.io/images/m_ioab200ga.jpeg){: .align-left height="375px" width="356px"}
 
 <b>[Metabolomic signature of spermatozoa established during holding time is responsible for differences in boar sperm freezability](http://fjnovais.github.io/publication/2021-11-01-Metabolomic-signature-spermatozoa-established-during-HT-responsible-differences-boar-sperm-freezability)</b> <Torres M.A.,Pedrosa A.C., <b>Novais F.J.</b>, Alkmin D.V., Cooper B.R., Yasui G.S., Fukumasu H., Machaty Z., Andrade A.F.C,
