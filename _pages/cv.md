@@ -24,6 +24,16 @@ Education
 
 Work experience
 ======
+<b>August 2022- Now </b>: Postdoctoral fellow at University of Alberta
+  * Faculty of Agricultural, Life & Environmental Sciences
+  * Supervisor: Edward Bork, Carolyn Fitzsimmons
+  * Postodoc in Data Science and Precision Livestock Farming
+
+<b>September 2021- August 2022</b>: Postdoctoral fellow at University of São Paulo
+  * Department of Medicine Veterinary, FZEA/USP
+  * Supervisor: Heidge Fukumasu
+  * Postodoc in Machine-learning applied to Metagenomics
+
 <b>August 2017 - September 2021</b>: Graduate Research Assistant (D.Sc.)
   * Department of Animal Science, ESALQ/USP
   * Advisor: Luiz Lehmann Coutinho
