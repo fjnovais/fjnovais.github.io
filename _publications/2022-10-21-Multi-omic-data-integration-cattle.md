@@ -1,7 +1,7 @@
 ---
 title: "Multi-omic data integration for the study of production, carcass, and meat quality traits in Nellore cattle"
 collection: publications
-permalink: /publication/2022-10-21-Multi-omic-data-integration-cattle.md
+permalink: /publication/2022-10-21-Multi-omic-data-integration-cattle
 date: 21 October 2022
 venue: '<span style="color:#B10E06">Frontiers in Genetics,v.13</span>'
 
