@@ -6,6 +6,17 @@ author_profile: true
 
 ## Peer-reviewed Publications
 
+![MultiOmics2022](http://fjnovais.github.io/images/multiomics.jpeg){: .align-left height="375px" width="356px"}
+
+<b>[Multi-omic data integration for the study of production, carcass, and meat quality traits in Nellore cattle](http://fjnovais.github.io/publication/2021-11-01-Metabolomic-signature-spermatozoa-established-during-HT-responsible-differences-boar-sperm-freezability)</b> <<b>Novais F.J.</b>, Yu H., Mello A., Momen M., Poleti M., Petry B., Mourão G.B., Regitano L., Morota G., Coutinho L.L. (2022) <i><span style="color:#B10E06">Frontiers in Genetics</span></i>
+
+The aim was to propose a new approach for Multi-Omics integration applied to Animal Production.
+
+<br>
+
+<br>
+
+
 ![FrontGen2022Vag](http://fjnovais.github.io/images/Imagem11.jpg){: .align-right height="375px" width="356px"}
 
 <b>[Vaginal Microbiota Diversity in Response to Lipopolysaccharide in Gilts Housed Under Three Housing Systems](http://fjnovais.github.io/publication/2022-08-08-Vaginal-Microbiota-Diversity-in-Response-to-Lipopolysaccharide-in-Gilts-Housed-Under-Three-Housing-Systems)</b> <Alves L.,<b>Novais F.J.</b>, da Silva A.N., Araujo M.S., Bernadino T., Osowki G. V., Zanella R., Lee Settles M., Holmes M.A., Fukumasu H., Ruiz V.L.A., Zanella A.J. (2022) <i><span style="color:#B10E06">Frontiers in Genetics</span></i>
