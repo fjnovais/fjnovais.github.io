@@ -8,7 +8,7 @@ author_profile: true
 
 ![MultiOmics2022](http://fjnovais.github.io/images/Multiomics_2022.png){: .align-left height="375px" width="356px"}
 
-<b>[Multi-omic data integration for the study of production, carcass, and meat quality traits in Nellore cattle](http://fjnovais.github.io/publication/2022-10-21-Multi-omic-data-integration-cattle)</b><<b>Novais F.J.</b>, Yu H., Mello A., Momen M., Poleti M., Petry B., Mourão G.B., Regitano L., Morota G., Coutinho L.L. (2022) <i><span style="color:#B10E06">Frontiers in Genetics</span></i>
+<b>[Multi-omic data integration for the study of production, carcass, and meat quality traits in Nellore cattle](http://fjnovais.github.io/publication/2022-10-21-Multi-omic-data-integration-cattle)</b><b>Novais F.J.</b>, Yu H., Mello A., Momen M., Poleti M., Petry B., Mourão G.B., Regitano L., Morota G., Coutinho L.L. (2022) <i><span style="color:#B10E06">Frontiers in Genetics</span></i>
 
 The aim was to propose a new approach for Multi-Omics integration applied to Animal Production.
 
