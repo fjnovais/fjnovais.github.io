@@ -6,7 +6,7 @@ author_profile: true
 
 ## Peer-reviewed Publications
 
-![Metabolites2024](http://fjnovais.github.io/images/metabolistes24.png){: .align-left height="375px" width="356px"}
+![Metabolites2024](http://fjnovais.github.io/images/metabolites24.png){: .align-left height="375px" width="356px"}
 
 <b>[Unraveling Ruminant Feed Efficiency Through Metabolomics: A Systematic Review](http://fjnovais.github.io/publication/2024-12-03-Metabolites-review)</b> <Nunes, A.T.; Faleiros, C.A.; Poleti, M.D.; <b>Novais F.J.</b>, López-Hernández, Y.; Mandal, R.; Wishart, D.S.; Fukumasu, H. (2024) <i><span style="color:#B10E06">Metabolites</span></i>
 
@@ -17,7 +17,7 @@ This review synthesizes findings from 71 studies that applied metabolomic approa
 <br>
 
 
-![FrontGen2024Soy](http://fjnovais.github.io/images/Keysoy.jpg){: .align-right height="375px" width="356px"}
+![FrontGen2024Soy](http://fjnovais.github.io/images/KeySoy.jpg){: .align-right height="375px" width="356px"}
 
 <b>[Key co-expressed genes correlated with blood serum parameters of pigs fed with different fatty acid profile diets](http://fjnovais.github.io/publication/2024-07-02-Key-co-expression)</b> <Fanalli SL, Gomes JD,<b>Novais F.J.</b>, Gervásio IC, Fukumasu H, Moreira GCM, Coutinho LL, Koltes J, Amaral AJ and Cesar ASM (2022) <i><span style="color:#B10E06">Frontiers in Genetics</span></i>
 
