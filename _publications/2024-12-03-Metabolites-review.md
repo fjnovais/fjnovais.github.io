@@ -5,7 +5,7 @@ permalink: /publication/2024-12-03-Metabolites-review
 date: 03 December 2024
 venue: '<span style="color:#B10E06">Metabolites,v.14</span>'
 
-citation: Nunes, A.T.; Faleiros, C.A.; Poleti, M.D.; Novais, F.J.; López-Hernández, Y.; Mandal, R.; Wishart, D.S.; Fukumasu, H. Unraveling Ruminant Feed Efficiency Through Metabolomics: A Systematic Review. Metabolites 2024, 14, 675. https://doi.org/10.3390/metabo14120675
+citation: 'Nunes, A.T.; Faleiros, C.A.; Poleti, M.D.; Novais, F.J.; López-Hernández, Y.; Mandal, R.; Wishart, D.S.; Fukumasu, H. Unraveling Ruminant Feed Efficiency Through Metabolomics: A Systematic Review. Metabolites 2024, 14, 675. https://doi.org/10.3390/metabo14120675'
 ---
 
 [Access paper here](https://doi.org/10.3390/metabo14120675)
