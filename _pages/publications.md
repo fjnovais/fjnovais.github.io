@@ -6,6 +6,49 @@ author_profile: true
 
 ## Peer-reviewed Publications
 
+![Metabolites2024](http://fjnovais.github.io/images/metabolistes24.png){: .align-left height="375px" width="356px"}
+
+<b>[Unraveling Ruminant Feed Efficiency Through Metabolomics: A Systematic Review](http://fjnovais.github.io/publication/2024-12-03-Metabolites-review)</b> <Nunes, A.T.; Faleiros, C.A.; Poleti, M.D.; <b>Novais F.J.</b>, López-Hernández, Y.; Mandal, R.; Wishart, D.S.; Fukumasu, H. (2024) <i><span style="color:#B10E06">Metabolites</span></i>
+
+This review synthesizes findings from 71 studies that applied metabolomic approaches to uncover the biological mechanisms driving interindividual variations in FE across cattle, sheep, goats, and buffaloes.
+
+<br>
+
+<br>
+
+
+![FrontGen2024Soy](http://fjnovais.github.io/images/Keysoy.jpg){: .align-right height="375px" width="356px"}
+
+<b>[Key co-expressed genes correlated with blood serum parameters of pigs fed with different fatty acid profile diets](http://fjnovais.github.io/publication/2024-07-02-Key-co-expression)</b> <Fanalli SL, Gomes JD,<b>Novais F.J.</b>, Gervásio IC, Fukumasu H, Moreira GCM, Coutinho LL, Koltes J, Amaral AJ and Cesar ASM (2022) <i><span style="color:#B10E06">Frontiers in Genetics</span></i>
+
+Our aim was to identify changes in blood serum parameters and gene expression between diets containing 3% soybean oil (SOY3.0) and a standard pig production diet containing 1.5% soybean oil (SOY1.5)
+
+<br>
+
+<br>
+
+![heliyon](http://fjnovais.github.io/images/heliyon.jpg){: .align-left height="375px" width="356px"}
+
+<b>[Exploring candidate genes for heat tolerance in ovine through liver gene expression](http://fjnovais.github.io/publication/2024-02-29-heliyon)</b> <de Andrade Pantoja, M.H. <b>Novais F.J.</b>, Mourão GB, Mateescu RG, Poleti MD, Beline M, Monteiro CP, Fukumasu H, Titto CG. (2024) <i><span style="color:#B10E06">Heliyon</span></i>
+
+The primary objective of this research was to find candidate genes in the liver that play a crucial role in the heat stress response of Santa Ines sheep, which exhibit varying levels of heat tolerance.
+
+<br>
+
+<br>
+
+
+![SkinOvine](http://fjnovais.github.io/images/skinovine.png){: .align-right height="375px" width="356px"}
+
+<b>[Skin transcriptomic analysis reveals candidate genes and pathways associated with thermotolerance in hair sheep](http://fjnovais.github.io/publication/2023-12-26-Skin_transcriptomics)</b> <de Andrade Pantoja, M.H., Poleti, M.D.,<b>Novais F.J.</b>,Kelly Kéffny Souza Duarte, Raluca G. Mateescu, Gerson Barreto Mourão, Luiz Lehmann Coutinho, Heidge Fukumasu & Cristiane Gonçalves Titto (2023) <i><span style="color:#B10E06">Int J Biometeorology</span></i>
+
+Our objective was to identify candidate genes associated with the heat stress response in the skin of Santa Ines sheep.
+
+<br>
+
+<br>
+
+
 ![MultiOmics2022](http://fjnovais.github.io/images/Multiomics_2022.png){: .align-left height="375px" width="356px"}
 
 <b>[Multi-omic data integration for the study of production, carcass, and meat quality traits in Nellore cattle](http://fjnovais.github.io/publication/2022-10-21-Multi-omic-data-integration-cattle)</b> < <b>Novais F.J.</b>, Yu H., Mello A., Momen M., Poleti M., Petry B., Mourão G.B., Regitano L., Morota G., Coutinho L.L. (2022) <i><span style="color:#B10E06">Frontiers in Genetics</span></i>
