@@ -8,7 +8,7 @@ venue: '<span style="color:#B10E06">Int J Biometeorology</span>'
 citation: 'de Andrade Pantoja, M.H., Poleti, M.D., de Novais, F.J. et al. Skin transcriptomic analysis reveals candidate genes and pathways associated with thermotolerance in hair sheep. Int J Biometeorol 68, 435–444 (2024). https://doi.org/10.1007/s00484-023-02602-4'
 ---
 
-[Access paper here](https://doi.org/10.3390/metabo14120675)
+[Access paper here](https://doi.org/10.1007/s00484-023-02602-4)
 
 <b>Abstract</b>
 
