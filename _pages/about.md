@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Francisco, an animal scientist, MSc. & Ph.D. in animal science and pastures at the University of São Paulo (USP). I have experience in Bioinformatics and Data Science. **Recently, I've been working with Precision Livestock Farming (Papers coming soon)**. During my Ph.D., at the University of São Paulo, I focused on Multi-omics integration methods applied to meat tenderness in Nellore cattle. In my MSc. research, I committed to identifying potential biomarkers associated with feed efficiency and understanding the molecular process that explains feed efficiency variation.
+Hello! I’m Francisco, an animal scientist, MSc. & Ph.D. in animal science and pastures, and MBA in Data Science and Analystics at the University of São Paulo (USP). Currently, I am pursuing a postdoctoral research position at the University of Alberta, Canada, focusing on Precision Livestock Farming and Sustainable Animal Production. 
+
+With a multidisciplinary background, I have contributed to several prestigious research labs at USP, including the Animal Biotechnology Laboratory (ESALQ), the Comparative and Translational Oncology Laboratory (LOCT), and the Animal Breeding, Biotechnology, and Transgenics Group (GMABT). My work spans metabolomics applied to animal production, systems biology, and omics data integration.
+
+I have strong expertise in genetics, molecular biology, data science, and sustainable production practices. From 2013 to 2014, I worked as a Technical Assistant at CRV Lagoa Ltd., managing the database for the Genetic Improvement Program "Gestor Leite" and the directed breeding program "SIREMATCH" for dairy cattle.
 
 Outside of my professional life, I enjoy cooking, drawing, and spending time with family.
 
-**This website is not updated- I`ll update it soon!!!**
+**Updated at December 08, 2024**
 
 ------
 
