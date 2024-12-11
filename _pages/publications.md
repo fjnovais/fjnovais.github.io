@@ -6,6 +6,16 @@ author_profile: true
 
 ## Peer-reviewed Publications
 
+![SmartTech2024NF](http://fjnovais.github.io/images/SmarTech.jpg){: .align-right height="375px" width="356px"}
+
+<b>[Evaluation of the technical performance of the Nofence virtual fencing system in Alberta, Canada](http://fjnovais.github.io/publication/2024-12-11-Key-co-expression)</b> <Alexandra J. Harland,<b>Novais F.J.</b>, Obioha N. Durunna , Carolyn J. Fitzsimmons , John S. Church , Edward W. Bork (2024) <i><span style="color:#B10E06">Smart Agricultural Technology</span></i>
+
+Technical parameters such as network connectivity, collar failures, battery performance, and solar charging capabilities of the VF collars were evaluated across four grazing trials,  three conducted in summer and one in winter.
+
+<br>
+
+<br>
+
 ![Metabolites2024](http://fjnovais.github.io/images/metabolites24.png){: .align-left height="375px" width="356px"}
 
 <b>[Unraveling Ruminant Feed Efficiency Through Metabolomics: A Systematic Review](http://fjnovais.github.io/publication/2024-12-03-Metabolites-review)</b> <Nunes, A.T.; Faleiros, C.A.; Poleti, M.D.; <b>Novais F.J.</b>, López-Hernández, Y.; Mandal, R.; Wishart, D.S.; Fukumasu, H. (2024) <i><span style="color:#B10E06">Metabolites</span></i>
