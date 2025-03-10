@@ -6,6 +6,16 @@ author_profile: true
 
 ## Peer-reviewed Publications
 
+![Oloyede2024](http://fjnovais.github.io/images/figoLOYEDE2025.png){: .align-left height="375px" width="356px"}
+
+<b>[Effects of heat load on beef cattle activity budgets in a northern temperate grazing system](http://fjnovais.github.io/publication/2025-10-03-IJB)</b> <Temitope O. Oloyede, <b>Novais F.J.</b> , Carolyn J. Fitzsimmons, John S. Church , Edward W. Bork (2025) <i><span style="color:#B10E06"> International Journal of Biometeorology </span></i>
+
+This research reports on patterns of beef cattle activity, including step counts and lying time, during the summer and fall grazing seasons of 2021, coincident with an unusual period of elevated temperatures and heat load within a northern temperate rangeland of Alberta, Canada.
+
+<br>
+
+<br>
+
 ![SmartTech2024NF](http://fjnovais.github.io/images/SmarTech.jpg){: .align-right height="375px" width="356px"}
 
 <b>[Evaluation of the technical performance of the Nofence virtual fencing system in Alberta, Canada](http://fjnovais.github.io/publication/2024-12-11-NF-Tech)</b> <Alexandra J. Harland,<b>Novais F.J.</b>, Obioha N. Durunna , Carolyn J. Fitzsimmons , John S. Church , Edward W. Bork (2024) <i><span style="color:#B10E06">Smart Agricultural Technology</span></i>
