@@ -6,6 +6,16 @@ author_profile: true
 
 ## Peer-reviewed Publications
 
+![JEM2025NF](http://fjnovais.github.io/images/1-s2.0-S0301479725011429-gr2.jpg){: .align-right height="375px" width="356px"}
+
+<b>[Evaluating virtual fencing as a tool to manage beef cattle for rotational grazing across multiple years](http://fjnovais.github.io/publication/2025-04-04-JEM)</b> <Alexandra J. Harland,<b>Novais F.J.</b>, Carolyn J. Fitzsimmons , John S. Church , Gleise M. da Silva, Maria C. Londono-Mendez, Edward W. Bork (2024) <i><span style="color:#B10E06">Journal of Environmental Management</span></i>
+
+we evaluated the ability of cattle to initially learn and adapt to VF technology, and thereafter control their temporal and spatial use of pastures during the grazing season.
+
+<br>
+
+<br>
+
 
 ![Oloyede2024](http://fjnovais.github.io/images/figoLOYEDE2025.png){: .align-left height="375px" width="356px"}
 
