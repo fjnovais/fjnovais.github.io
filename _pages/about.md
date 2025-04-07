@@ -16,7 +16,7 @@ I have strong expertise in genetics, molecular biology, data science, and sustai
 
 Outside of my professional life, I enjoy cooking, drawing, and spending time with family.
 
-**Updated at December 08, 2024**
+**Updated: April 7th, 2025**
 
 ------
 
