@@ -10,7 +10,7 @@ author_profile: true
 
 <b>[Evaluating virtual fencing as a tool to manage beef cattle for rotational grazing across multiple years](http://fjnovais.github.io/publication/2025-04-04-JEM)</b> <Alexandra J. Harland,<b>Novais F.J.</b>, Carolyn J. Fitzsimmons , John S. Church , Gleise M. da Silva, Maria C. Londono-Mendez, Edward W. Bork (2024) <i><span style="color:#B10E06">Journal of Environmental Management</span></i>
 
-we evaluated the ability of cattle to initially learn and adapt to VF technology, and thereafter control their temporal and spatial use of pastures during the grazing season.
+Here, we evaluated the ability of cattle to initially learn and adapt to VF technology, and thereafter control their temporal and spatial use of pastures during the grazing season.
 
 <br>
 
