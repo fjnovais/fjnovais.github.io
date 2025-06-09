@@ -9,7 +9,7 @@ author_profile: true
 
 ![Udeh12025](http://fjnovais.github.io/images/Udeh2025.png){: .align-left height="375px" width="356px"}
 
-<b>[Effects of heat load on beef cattle activity budgets in a northern temperate grazing system](http://fjnovais.github.io/publication/2025-03-05-CANPSci)</b> < Valentine Udeh, <b>Novais F.J.</b>, Lisa Raatz, James Cahill, Leluo Guan, Eric G Lamb, Carolyn Fitzsimmons, Edward W. Bork (2025) <i><span style="color:#B10E06"> Canadian Journal of Plant Science </span></i>
+<b>[Comparative identification of common Aspen Parkland plant species using three molecular barcodes](http://fjnovais.github.io/publication/2025-03-05-CANPSci)</b> < Valentine Udeh, <b>Novais F.J.</b>, Lisa Raatz, James Cahill, Leluo Guan, Eric G Lamb, Carolyn Fitzsimmons, Edward W. Bork (2025) <i><span style="color:#B10E06"> Canadian Journal of Plant Science </span></i>
 
 This study aimed to evaluate the effectiveness of three chloroplast barcodes—trnL, rbcL, and matK—for identifying co-occurring plant species in Alberta's Aspen Parkland.
 
