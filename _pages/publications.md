@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer-reviewed Publications
 
-![AB2025MINITRIAL](http://fjnovais.github.io/images/static.png){: .align-right height="375px" width="356px"}
+![AB2025MINITRIAL](http://fjnovais.github.io/images/static2025.png){: .align-right height="375px" width="356px"}
 
 <b>[Static evaluation of a virtual fence collar: precision and accuracy relative to a conventional GNSS collar across habitats](http://fjnovais.github.io/publication/2025-23-06-AB)</b> <Edward W. Bork, Sydney Lopes, Alexandra J. Harland,  Matthew J. Francis, Carolyn J. Fitzsimmons , Cameron N. Carlyle, <b>Novais F.J.</b>  (2025) <i><span style="color:#B10E06">Animal Biotelemetry</span></i>
 
