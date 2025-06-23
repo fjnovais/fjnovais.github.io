@@ -17,8 +17,6 @@ This study compared the precision and accuracy errors of a conventional GNSS col
 
 <br>
 
-.md
-
 ![Udeh12025](http://fjnovais.github.io/images/Udeh2025.png){: .align-left height="375px" width="356px"}
 
 <b>[Comparative identification of common Aspen Parkland plant species using three molecular barcodes](http://fjnovais.github.io/publication/2025-03-05-CANPSci)</b> < Valentine Udeh, <b>Novais F.J.</b>, Lisa Raatz, James Cahill, Leluo Guan, Eric G Lamb, Carolyn Fitzsimmons, Edward W. Bork (2025) <i><span style="color:#B10E06"> Canadian Journal of Plant Science </span></i>
