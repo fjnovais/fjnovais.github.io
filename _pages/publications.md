@@ -7,6 +7,18 @@ author_profile: true
 
 ## Peer-reviewed Publications
 
+![AB2025MINITRIAL](http://fjnovais.github.io/images/static.png){: .align-right height="375px" width="356px"}
+
+<b>[Static evaluation of a virtual fence collar: precision and accuracy relative to a conventional GNSS collar across habitats](http://fjnovais.github.io/publication/2025-23-06-AB)</b> <Edward W. Bork, Sydney Lopes, Alexandra J. Harland,  Matthew J. Francis, Carolyn J. Fitzsimmons , Cameron N. Carlyle, <b>Novais F.J.</b>  (2025) <i><span style="color:#B10E06">Animal Biotelemetry</span></i>
+
+This study compared the precision and accuracy errors of a conventional GNSS collar intended primarily for geolocation (Lotek LiteTrack 420) to that of a virtual fencing (VF) collar (Nofence), including the effect of different habitats across the landscape.
+
+<br>
+
+<br>
+
+.md
+
 ![Udeh12025](http://fjnovais.github.io/images/Udeh2025.png){: .align-left height="375px" width="356px"}
 
 <b>[Comparative identification of common Aspen Parkland plant species using three molecular barcodes](http://fjnovais.github.io/publication/2025-03-05-CANPSci)</b> < Valentine Udeh, <b>Novais F.J.</b>, Lisa Raatz, James Cahill, Leluo Guan, Eric G Lamb, Carolyn Fitzsimmons, Edward W. Bork (2025) <i><span style="color:#B10E06"> Canadian Journal of Plant Science </span></i>
