@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer-reviewed Publications
 
-![Novais2025](http://fjnovais.github.io/images/Fig3.tiff){: .align-left height="375px" width="356px"}
+![Novais2025](http://fjnovais.github.io/images/Fig3.jpeg){: .align-left height="375px" width="356px"}
 
 <b>[Influence of individual animal characteristics on beef cattle performance while grazing northern temperate rangeland](http://fjnovais.github.io/publication/2025-28-11-LS)</b> < <b>Novais F.J.</b>, Carolyn J. Fitzsimmons, Hailey Bolen, Le Luo Guan, Changxi Li, John A. Basarab, Amir Behrouzi, Cameron N. Carlyle, Sydney G. Lopes, Ankhtsetseg Battur, Sangweon Na, Temitope Oloyede, Graham Plastow, Valentine Udeh, Edward W. Bork (2025) <i><span style="color:#B10E06"> Livestock Science </span></i>
 
