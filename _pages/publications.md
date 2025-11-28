@@ -7,6 +7,16 @@ author_profile: true
 
 ## Peer-reviewed Publications
 
+![Novais2025](http://fjnovais.github.io/images/Fig3.tiff){: .align-left height="375px" width="356px"}
+
+<b>[Influence of individual animal characteristics on beef cattle performance while grazing northern temperate rangeland](http://fjnovais.github.io/publication/2025-28-11-LS)</b> < <b>Novais F.J.</b>, Carolyn J. Fitzsimmons, Hailey Bolen, Le Luo Guan, Changxi Li, John A. Basarab, Amir Behrouzi, Cameron N. Carlyle, Sydney G. Lopes, Ankhtsetseg Battur, Sangweon Na, Temitope Oloyede, Graham Plastow, Valentine Udeh, Edward W. Bork (2025) <i><span style="color:#B10E06"> Livestock Science </span></i>
+
+This study evaluated the effects of age, genomic retained heterozygosity (gRHET), and residual feed intake corrected for back-fat thickness (RFIfat) on weight gain in heifers, cows, and calves grazing native pasture over three years (2021–2023), during summer and fall in a northern temperate region.
+
+<br>
+
+<br>
+
 ![AB2025MINITRIAL](http://fjnovais.github.io/images/static2025.png){: .align-right height="375px" width="356px"}
 
 <b>[Static evaluation of a virtual fence collar: precision and accuracy relative to a conventional GNSS collar across habitats](http://fjnovais.github.io/publication/2025-23-06-AB)</b> <Edward W. Bork, Sydney Lopes, Alexandra J. Harland,  Matthew J. Francis, Carolyn J. Fitzsimmons , Cameron N. Carlyle, <b>Novais F.J.</b>  (2025) <i><span style="color:#B10E06">Animal Biotelemetry</span></i>
