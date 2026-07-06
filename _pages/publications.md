@@ -7,6 +7,16 @@ author_profile: true
 
 ## Peer-reviewed Publications
 
+![Novaise2026IBJ](http://fjnovais.github.io/images/484_2026_3198_Fig2_HTML.png){: .align-right height="375px" width="356px"}
+
+<b>[Cattle habitat selection in response to weather extremes within a native Aspen Parkland rangeland](http://fjnovais.github.io/publication/2026-06-01-Cattle-habitat-selection-in-response-weather-extremes-Aspen)</b> < <b>Sydney G. Lopes, Novais F.J.</b>,Cameron N. Carlyle, Carolyn J. Fitzsimmons, John S. Church, Edward W. Bork (2026) <i><span style="color:#B10E06"> Livestock Science </span></i>
+
+ This study examined habitat preferences expressed by beef cattle while grazing during an usually warm summer growing season of 2021, and during a colder than normal period during the fall grazing season of 2022, within the Aspen Parkland, a vegetationally diverse transition zone between prairie grasslands and boreal forests in western Canada.
+
+<br>
+
+<br>
+
 ![Novaise2025](http://fjnovais.github.io/images/Fig3.jpeg){: .align-left height="375px" width="356px"}
 
 <b>[Influence of individual animal characteristics on beef cattle performance while grazing northern temperate rangeland](http://fjnovais.github.io/publication/2025-28-11-LS)</b> < <b>Novais F.J.</b>, Carolyn J. Fitzsimmons, Hailey Bolen, Le Luo Guan, Changxi Li, John A. Basarab, Amir Behrouzi, Cameron N. Carlyle, Sydney G. Lopes, Ankhtsetseg Battur, Sangweon Na, Temitope Oloyede, Graham Plastow, Valentine Udeh, Edward W. Bork (2025) <i><span style="color:#B10E06"> Livestock Science </span></i>
