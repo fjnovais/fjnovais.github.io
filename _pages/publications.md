@@ -9,7 +9,7 @@ author_profile: true
 
 ![Novaise2026IBJ](http://fjnovais.github.io/images/484_2026_3198_Fig2_HTML.png){: .align-right height="375px" width="356px"}
 
-<b>[Cattle habitat selection in response to weather extremes within a native Aspen Parkland rangeland](http://fjnovais.github.io/publication/2026-06-01-Cattle-habitat-selection-in-response-weather-extremes-Aspen)</b> < <b>Sydney G. Lopes, Novais F.J.</b>,Cameron N. Carlyle, Carolyn J. Fitzsimmons, John S. Church, Edward W. Bork (2026) <i><span style="color:#B10E06"> International Journal of Biometeorology </span></i>
+<b>[Cattle habitat selection in response to weather extremes within a native Aspen Parkland rangeland](http://fjnovais.github.io/publication/2026-06-01-Cattle-habitat-selection-in-response-weather-extremes-Aspen)</b> < Sydney G. Lopes, <b>Novais F.J.</b>,Cameron N. Carlyle, Carolyn J. Fitzsimmons, John S. Church, Edward W. Bork (2026) <i><span style="color:#B10E06"> International Journal of Biometeorology </span></i>
 
  This study examined habitat preferences expressed by beef cattle while grazing during an usually warm summer growing season of 2021, and during a colder than normal period during the fall grazing season of 2022, within the Aspen Parkland, a vegetationally diverse transition zone between prairie grasslands and boreal forests in western Canada.
 
