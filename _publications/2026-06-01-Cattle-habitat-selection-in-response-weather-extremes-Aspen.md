@@ -3,9 +3,11 @@ title: "Cattle habitat selection in response to weather extremes within a native
 collection: publications
 permalink: /publication/2026-06-01-Cattle-habitat-selection-in-response-weather-extremes-Aspen
 date: 01 June 2026
-venue: '<span style="color:#B10E06">International Journal of Biometeorology,70,178</span>'
+venue: '<span style="color:#B10E06">International Journal of Biometeorology</span>'
 
-citation: 'Lopes, S.G., Novais, F.J., et al. Cattle habitat selection in response to weather extremes within a native Aspen Parkland rangeland. Int J Biometeorol 70, 178 (2026). https://doi.org/10.1007/s00484-026-03198-1'
+citation: 'Lopes, S.G., Novais, F.J., et al. Cattle habitat selection in response to weather extremes within a native Aspen Parkland rangeland. Int J Biometeorol 70, 178 (2026). 
+https://doi.org/10.1007/s00484-026-03198-1
+'
 ---
 
 [Access paper here](https://doi.org/10.1007/s00484-026-03198-1)
