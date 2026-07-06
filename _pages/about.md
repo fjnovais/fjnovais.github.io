@@ -8,15 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Francisco, an animal scientist, MSc. & Ph.D. in animal science and pastures, and MBA in Data Science and Analytics at the University of São Paulo (USP). Currently, I am a postdoctoral researcher at the University of Alberta, Canada, focusing on Precision Livestock Farming and Sustainable Animal Production. 
+I am an Animal Scientist with an M.Sc. and Ph.D. in Animal Science and Pastures, as well as an MBA in Data Science and Analytics from the University of São Paulo (USP). I am currently a Postdoctoral Research Fellow at the University of Alberta, Canada, where my research focuses on Precision Livestock Farming, Sustainable Grazing Systems, Animal Behavior, and Data-Driven Decision Making for Sustainable Beef Production.
 
-With a multidisciplinary background, I have contributed to several research labs at USP, including the Animal Biotechnology Laboratory (ESALQ), the Comparative and Translational Oncology Laboratory (LOCT), and the Animal Breeding, Biotechnology, and Transgenics Group (GMABT). My work spans metabolomics applied to animal production, systems biology, and omics data integration.
+My research integrates animal science, genomics, bioinformatics, remote sensing, geospatial analysis, and artificial intelligence to improve livestock productivity, animal welfare, and environmental sustainability. I have extensive experience working with multi-omics integration, metabolomics, quantitative genetics, molecular biology, GNSS tracking, LiDAR, virtual fencing technologies, and statistical modeling applied to precision grazing systems.
 
-I have strong expertise in genetics, molecular biology, data science, and sustainable production practices. From 2013 to 2014, I worked as a Technical Assistant at CRV Lagoa Ltd., managing the database for the Genetic Improvement Program "Gestor Leite" and the directed breeding program "SIREMATCH" for dairy cattle.
+Throughout my career, I have collaborated with multidisciplinary research groups at USP, including the Animal Biotechnology Laboratory (ESALQ), the Comparative and Translational Oncology Laboratory (LOCT), and the Animal Breeding, Biotechnology and Transgenics Group (GMABT). More recently, my research has expanded toward integrating animal sensor technologies, precision monitoring, and environmental data to understand grazing behavior, habitat selection, feed efficiency, methane mitigation, and climate-smart livestock production.
+
+My scientific contributions include more than 20 peer-reviewed publications in international journals spanning animal breeding, systems biology, metabolomics, bioinformatics, precision livestock farming, and sustainable animal production. I have contributed to studies involving multi-omics data integration, machine learning, animal movement ecology, virtual fencing systems, and precision grazing management.
+
+Prior to academia, I worked as a Technical Assistant at CRV Lagoa Ltd., where I managed databases for the dairy cattle genetic improvement program Gestor Leite and the mating decision support system SIREMATCH, strengthening my expertise in quantitative genetics, breeding programs, and livestock data management.
+
+My current research interests include Precision Livestock Farming, Sustainable Animal Production, Animal Behavior, Bioinformatics, Quantitative Genetics, Multi-Omics Integration, Machine Learning, Remote Sensing, Spatial Data Science, Precision Grazing, Virtual Fencing, Methane Mitigation, and Digital Agriculture.
+
 
 Outside of my professional life, I enjoy cooking, drawing, and spending time with family.
 
-**Updated: June 23rd, 2025**
+**Updated: July 6th, 2026**
 
 ------
 
