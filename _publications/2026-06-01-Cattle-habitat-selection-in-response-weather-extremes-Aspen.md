@@ -2,7 +2,6 @@
 title: "Cattle habitat selection in response to weather extremes within a native Aspen Parkland rangeland"
 collection: publications
 permalink: /publication/2026-06-01-Cattle-habitat-selection-in-response-weather-extremes-Aspen
-excerpt: 'This study examined habitat preferences expressed by beef cattle while grazing during an usually warm summer growing season of 2021, and during a colder than normal period during the fall grazing season of 2022, within the Aspen Parkland, a vegetationally diverse transition zone between prairie grasslands and boreal forests in western Canada'
 date: 01 June 2026
 venue: '<span style="color:#B10E06">International Journal of Biometeorology,70,178</span>'
 
