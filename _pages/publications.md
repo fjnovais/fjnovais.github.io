@@ -7,11 +7,15 @@ author_profile: true
 
 ## Peer-reviewed Publications
 
+<br>
+
 ![Novais2026REM](http://fjnovais.github.io/images/1-s2.0-S1550742426001259-gr2.jpg){: .align-left height="375px" width="356px"}
 
 <b>[Seasonal and Diurnal Vegetation Cover Preferences by Beef Cattle While Grazing Native Aspen Parkland Rangeland](http://fjnovais.github.io//publication/2026-09-28-Seasonal-daily-Selection)</b> < Sydney G. Lopes, Cameron N. Carlyle,<b>Novais F.J.</b>, Battur, A, John S. Church, Carolyn J. Fitzsimmons, Edward W. Bork (2026) <i><span style="color:#B10E06"> Rangeland Ecology & Management </span></i>
 
  This study examined vegetation cover type preferences by beef cattle while grazing over three growing seasons (2021–2023) in the Aspen Parkland, a vegetationally diverse transition region between prairie grasslands and boreal forests..
+
+<br>
 
 <br>
 
